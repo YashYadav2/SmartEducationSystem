@@ -65,30 +65,3 @@ button:hover {
     text-decoration: underline;
 }
 
-/* Add some basic styling */
-body {
-    margin: 0;
-    font-family: Arial, sans-serif;
-}
-
-/* Style the navigation bar */
-nav {
-    background-color: #3498db; /* Blue color */
-    overflow: hidden;
-}
-
-/* Style the navigation links */
-nav a {
-    float: left;
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    transition: background-color 0.3s; /* Add transition for smoother hover effect */
-}
-
-/* Change color on hover */
-nav a:hover {
-    background-color: #2980b9; /* Darker blue on hover */
-}
