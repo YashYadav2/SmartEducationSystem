@@ -2,18 +2,17 @@ nav {
    display: flex;
    justify-content: space-between;
    align-items: center;
-   background-color: #12372A; /* You can change the background color as needed */
+   background-color: #12372A; 
    padding: 10px;
  }
  
  nav h2 {
-   color: white; /* You can change the text color as needed */
-   margin: 0; /* Remove default margin to align with the edges */
- }
+   color: white; 
+   margin: 0; 
  
  nav a {
-   color: white; /* You can change the text color as needed */
-   text-decoration: none; /* Remove underlines from links */
+   color: white; 
+   text-decoration: none; 
    margin-right: 10px;
 
  }
